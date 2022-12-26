@@ -19,6 +19,6 @@ I begged and begged to get a “newer” computer when I was in 8th grade. It's 
 <br/><br/>
 Fast forward a few more years and I'm in college, with a Computer Engineering and Computer Science major. Along the way, I was able to participate in a great books, Oxford style program that made me realize that there was a lot more “there there” than just 1s and 0s. From then on I made a point to seek out bonum, veritas, and pulcher: goodness, truth, and beauty. For good measure I threw in techne: technology.
 <br/><br/>
-So that brings us to today. By day I'm a senior software engineer for a great consulting firm that is making some great applications for some great companies. By night I'm a java overlord (of the coffee persuasion), CCG junkie, spider killer for my wife, and silly daddy to my twin daughters.
+So that brings us to today. By day I'm a senior software director for a great consulting firm that is making some great applications for some great companies. By night I'm a java overlord (of the coffee persuasion), CCG junkie, spider killer for my wife, and silly daddy to my twin daughters.
 <br/><br/>
 What are you going to find here? I'm going to share with you the discoveries I make along the way with coding. I'm also going to share with you some various reflections on life, the universe, and a few things in between. Hopefully I'll strike a balance between the two, but I'll probably stray to one or the other depending on what season I'm in.
