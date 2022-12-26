@@ -1,17 +1,21 @@
 {
-  "baseURL": "https://awesome11ty.ttntm.me",
-  "author": "AWE.SOME",
-  "description": "AWE.SOMEty - A Landing Page Template for 11ty",
-  "title": "AWE.SOMEty - A Landing Page Template for 11ty",
+  "baseURL": "https://dillieo.me",
+  "author": "Sean Patterson",
+  "description": "Dillie-O Digital - A Landing Page for Sean Patterson",
+  "title": "Dillie-O Digital - Coding, Pensee, Esoterica",
   "language": "en",
   "social": [
     {
-      "title": "Twitter",
-      "url": "https://twitter.com/#"
+      "title": "Instagram",
+      "url": "https://instagram.com/dillieo"
     },
     {
       "title": "LinkedIn",
-      "url": "https://linkedin.com/company/#"
+      "url": "https://www.linkedin.com/in/dillieo"
+    },
+    {
+      "title": "Github",
+      "url": "https://github.com/dillie-o/"
     }
   ]
 }
