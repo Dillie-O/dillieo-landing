@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Prayer Odyssey",
+    "icon": "prayerodyssey.png",
+    "link": "https://www.prayerodyssey.com",
+    "content": "See how God answers prayer in your life with the option to share requests with others."
+  },
+  {
+    "title": "Bookmarkinator",
+    "icon": "bookmarkinator.png",
+    "link": "https://dillieo.visualstudio.com/Bookmarkinator",
+    "content": "Behold… The ultimate inator for all your bookmarks! See how it will take over the tri-browser area with its tagification and organizational prowess!!!"
+  },
+  {
+    "title": "Trellodoro",
+    "icon": "trellodoro.png",
+    "link": "https://github.com/Dillie-O/trellodoro",
+    "content": "Trello + Pomodoro = Personal Kanban Bliss"
+  },
+  {
+    "title": "Blog Migrator",
+    "icon": "icon5.svg",
+    "link": "https://github.com/Dillie-O/blogmigrator",
+    "content": "A tool to migrate your blog across various services."
+  },
+  {
+    "title": "CCG Toolkit",
+    "icon": "icon4.svg",
+    "link": "https://github.com/Dillie-O?tab=repositories",
+    "content": "A suite of applications for the Yu-Gi-Oh! TCG."
+  },
+  {
+    "title": "Github Projects",
+    "icon": "github.svg",
+    "link": "https://github.com/Dillie-O?tab=repositories",
+    "content": "Everything else not listed here"
+  }
+]
